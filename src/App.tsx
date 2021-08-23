@@ -1,7 +1,10 @@
+// components
+import Lists from './components/lists';
+
 function App() {
   return (
     <div>
-      <h1>Hello world</h1>
+      <Lists />
     </div>
   );
 }
